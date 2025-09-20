@@ -1,7 +1,7 @@
 # Hi there, I'm Sarmad 👋  
-## Android | iOS | Flutter Developer | 4+ Years of Experience  
+## Android | iOS | Flutter Developer | 5+ Years of Experience  
 
-With 4+ years of experience in **Android (Java/Kotlin)** development and growing expertise in **iOS (Swift)** and **cross-platform apps (Flutter/Dart)**, I build scalable, user-friendly, and high-performance mobile applications.  
+With 5+ years of experience in **Android (Java/Kotlin)** development and growing expertise in **iOS (Swift)** and **cross-platform apps (Flutter/Dart)**, I build scalable, user-friendly, and high-performance mobile applications.  
 
 <h2><i>💻 Tech Stack</i></h2>
 <table width="100%">
